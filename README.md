@@ -7,9 +7,10 @@ For this we are going to use python and to make this experience easier and inter
 With streamlit we can create simple interactive web app dashboards which could be used for EDA, Forecasting, other visualizations and more.
 
 ## Prerequisites
-1. Please make sure you have docker installed in your local machine.
+1. You will need api key, secret key and bearer key to connect to the twitter API. You can get this by signing up in twitter developer page. Applying for the Elevated account will give you a wider access to the available APIs.
+2. Please make sure you have docker installed in your local machine.
 
-2. If you don't want to run the app from docker you can still run it in your local machine (preferably in a virtual machine).
+3. If you don't want to run the app from docker you can still run it in your local machine (preferably in a virtual machine).
 
 ## Run with Docker
 Build the image:
