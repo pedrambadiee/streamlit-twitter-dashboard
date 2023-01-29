@@ -5,3 +5,5 @@ matplotlib
 plotly
 tweepy
 python-dotenv
+altair
+ccxt
